@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ravoluzen.github.io/csb-jnm17/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ravoluzen.github.io/csb-jnm17/static/js/main.3baa661a.chunk.js",
+    "main.js.map": "https://ravoluzen.github.io/csb-jnm17/static/js/main.3baa661a.chunk.js.map",
+    "runtime-main.js": "https://ravoluzen.github.io/csb-jnm17/static/js/runtime-main.c0dea689.js",
+    "runtime-main.js.map": "https://ravoluzen.github.io/csb-jnm17/static/js/runtime-main.c0dea689.js.map",
+    "static/js/2.f818006c.chunk.js": "https://ravoluzen.github.io/csb-jnm17/static/js/2.f818006c.chunk.js",
+    "static/js/2.f818006c.chunk.js.map": "https://ravoluzen.github.io/csb-jnm17/static/js/2.f818006c.chunk.js.map",
+    "index.html": "https://ravoluzen.github.io/csb-jnm17/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ravoluzen.github.io/csb-jnm17/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f818006c.chunk.js.LICENSE.txt": "https://ravoluzen.github.io/csb-jnm17/static/js/2.f818006c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0dea689.js",
+    "static/js/2.f818006c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.3baa661a.chunk.js"
+  ]
+}
